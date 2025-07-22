@@ -1,5 +1,8 @@
 # 📉 Customer-Churn-Prediction-Using-Streamlit-
 
+🔗 [Live App on Streamlit](https://singara-harendra-customer-churn-prediction-using-str-app-af4aaz.streamlit.app)
+
+
 A machine learning-powered web application built using **Streamlit** that predicts whether a customer is likely to churn based on inputs like age, tenure, gender, monthly charges, and tech support availability.
 
 ---
