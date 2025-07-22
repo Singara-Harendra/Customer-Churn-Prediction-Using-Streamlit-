@@ -5,7 +5,7 @@ import joblib
 scaler=joblib.load("scaler.pkl")
 model=joblib.load("model.pkl")
 
-st.title("Churn Prediction App by HARI ROYAL")
+st.title("Churn Prediction App")
 
 st.divider()
 
